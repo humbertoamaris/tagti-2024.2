@@ -1,1 +1,0 @@
-print("Aqui é somente um teste.")
